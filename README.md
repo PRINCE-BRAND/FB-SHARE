@@ -8,4 +8,4 @@ cd FB-SHARE
 
 git pull
 
-python FB-SHARE-TOOL-UNLIMITED-SHARE-enc.py
+python FB-SHARE-TOOL-UNLIMITED-SHARE.py
